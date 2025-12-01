@@ -1,0 +1,51 @@
+question,A,B,C,D,answer
+finish line,瑜伽 (yú jiā),运动员 (yùn dòng yuán),终点 (zhōng diǎn),速度 (sù dù),C
+surfing,冲浪 (chōng làng),排球 (pái qiú),球鞋 (qiú xié),柔道 (róu dào),A
+receive a prize,替补 (tì bǔ),举重 (jǔ zhòng),领奖 (lǐng jiǎng),冲刺 (chōng cì),C
+table tennis,首发 (shǒu fā),速度 (sù dù),乒乓球 (pīng pāng qiú),冲浪 (chōng làng),C
+shoot,队伍 (duì wǔ),拳击 (quán jī),射门 (shè mén),柔道 (róu dào),C
+play ball,柔道 (róu dào),跑道 (pǎo dào),热身 (rè shēn),打球 (dǎ qiú),D
+judo,马拉松 (mǎ lā sōng),羽毛球 (yǔ máo qiú),射箭 (shè jiàn),柔道 (róu dào),D
+coach,得分 (dé fēn),教练 (jiào liàn),冒汗 (mào hàn),终点 (zhōng diǎn),B
+athlete,冒汗 (mào hàn),首发 (shǒu fā),运动员 (yùn dòng yuán),球鞋 (qiú xié),C
+track,裁判 (cái pàn),跳绳 (tiào shéng),篮球 (lán qiú),跑道 (pǎo dào),D
+field,射箭 (shè jiàn),训练 (xùn liàn),场地 (chǎng dì),棒球 (bàng qiú),C
+sprint,冲刺 (chōng cì),进球 (jìn qiú),乒乓球 (pīng pāng qiú),裁判 (cái pàn),A
+football,排球 (pái qiú),替补 (tì bǔ),瑜伽 (yú jiā),足球 (zú qiú),D
+assist,助攻 (zhù gōng),跑步 (pǎo bù),篮球 (lán qiú),替补 (tì bǔ),A
+boxing,训练 (xùn liàn),跳绳 (tiào shéng),拳击 (quán jī),跳水 (tiào shuǐ),C
+marathon,举重 (jǔ zhòng),乒乓球 (pīng pāng qiú),马拉松 (mǎ lā sōng),体操 (tǐ cāo),C
+sneakers,力量 (lì liàng),体操 (tǐ cāo),球鞋 (qiú xié),体能 (tǐ néng),C
+sweat,冒汗 (mào hàn),游泳 (yóu yǒng),得分 (dé fēn),球鞋 (qiú xié),A
+basketball,训练 (xùn liàn),教练 (jiào liàn),篮球 (lán qiú),冒汗 (mào hàn),C
+endurance,队伍 (duì wǔ),得分 (dé fēn),耐力 (nài lì),跳远 (tiào yuǎn),C
+gymnastics,体操 (tǐ cāo),耐力 (nài lì),足球 (zú qiú),运动员 (yùn dòng yuán),A
+movement,耐力 (nài lì),动作 (dòng zuò),滑雪 (huá xuě),冲刺 (chōng cì),B
+long jump,拳击 (quán jī),跳远 (tiào yuǎn),羽毛球 (yǔ máo qiú),跳绳 (tiào shéng),B
+speed,马拉松 (mǎ lā sōng),领奖 (lǐng jiǎng),跳水 (tiào shuǐ),速度 (sù dù),D
+fitness test,摔跤 (shuāi jiāo),足球 (zú qiú),队伍 (duì wǔ),体测 (tǐ cè),D
+archery,射箭 (shè jiàn),足球 (zú qiú),滑冰 (huá bīng),领奖 (lǐng jiǎng),A
+diving,游泳 (yóu yǒng),观众 (guān zhòng),热身 (rè shēn),跳水 (tiào shuǐ),D
+referee,摔跤 (shuāi jiāo),裁判 (cái pàn),耐力 (nài lì),终点 (zhōng diǎn),B
+score,打球 (dǎ qiú),得分 (dé fēn),观众 (guān zhòng),场地 (chǎng dì),B
+volleyball,排球 (pái qiú),球鞋 (qiú xié),冲刺 (chōng cì),场地 (chǎng dì),A
+badminton,教练 (jiào liàn),得分 (dé fēn),羽毛球 (yǔ máo qiú),射门 (shè mén),C
+goal,游泳 (yóu yǒng),柔道 (róu dào),进球 (jìn qiú),替补 (tì bǔ),C
+team,拳击 (quán jī),队伍 (duì wǔ),热身 (rè shēn),乒乓球 (pīng pāng qiú),B
+warm-up,跳远 (tiào yuǎn),热身 (rè shēn),篮球 (lán qiú),跑步 (pǎo bù),B
+strength,教练 (jiào liàn),力量 (lì liàng),羽毛球 (yǔ máo qiú),终点 (zhōng diǎn),B
+starter,首发 (shǒu fā),体测 (tǐ cè),比赛 (bǐ sài),得分 (dé fēn),A
+substitute,排球 (pái qiú),裁判 (cái pàn),替补 (tì bǔ),球鞋 (qiú xié),C
+wrestling,摔跤 (shuāi jiāo),替补 (tì bǔ),速度 (sù dù),终点 (zhōng diǎn),A
+run,举重 (jǔ zhòng),跑步 (pǎo bù),终点 (zhōng diǎn),拳击 (quán jī),B
+swim,游泳 (yóu yǒng),力量 (lì liàng),体操 (tǐ cāo),排球 (pái qiú),A
+competition,举重 (jǔ zhòng),跑步 (pǎo bù),比赛 (bǐ sài),动作 (dòng zuò),C
+skiing,观众 (guān zhòng),滑雪 (huá xuě),拳击 (quán jī),举重 (jǔ zhòng),B
+spectator,冲浪 (chōng làng),棒球 (bàng qiú),领奖 (lǐng jiǎng),观众 (guān zhòng),D
+training,射箭 (shè jiàn),替补 (tì bǔ),得分 (dé fēn),训练 (xùn liàn),D
+breath,呼吸 (hū xī),跑道 (pǎo dào),教练 (jiào liàn),摔跤 (shuāi jiāo),A
+ice skating,队伍 (duì wǔ),首发 (shǒu fā),冒汗 (mào hàn),滑冰 (huá bīng),D
+fitness,滑冰 (huá bīng),力量 (lì liàng),耐力 (nài lì),体能 (tǐ néng),D
+yoga,冲刺 (chōng cì),柔道 (róu dào),射门 (shè mén),瑜伽 (yú jiā),D
+baseball,棒球 (bàng qiú),跳水 (tiào shuǐ),篮球 (lán qiú),马拉松 (mǎ lā sōng),A
+jump rope,运动员 (yùn dòng yuán),跳绳 (tiào shéng),瑜伽 (yú jiā),滑冰 (huá bīng),B
